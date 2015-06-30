@@ -19,3 +19,6 @@ What are some situations when branches would be helpful in keeping your history 
 How would branches help?
  When experimenting with a new feature, or when like adding a differentl language. By branching 
  we always have a working commit to show our friends
+
+How do the diagrams help you visualize the branch structure?
+ The diagram shows a clear path of what commits are reachable
