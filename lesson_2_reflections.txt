@@ -22,3 +22,8 @@ How would branches help?
 
 How do the diagrams help you visualize the branch structure?
  The diagram shows a clear path of what commits are reachable
+ 
+What is the result of merging two branches together? 
+ Why do we represent it in the diagram the way we do?
+ 
+the two branches become one all the changes are merged into the one branch. 
