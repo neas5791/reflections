@@ -27,3 +27,8 @@ What is the result of merging two branches together?
  Why do we represent it in the diagram the way we do?
  
 the two branches become one all the changes are merged into the one branch. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+ sometimes automatic isn't so smart or can't recognize the code changes that need to be 
+ refactored this is where the programmer has to use his/her noggin to figure things out
+ manually.
