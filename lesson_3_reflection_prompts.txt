@@ -1,3 +1,4 @@
 When would you want to use a remote repository rather than keeping all your work local?
   When you are accessing the project from multiple locations or have a community of programmers working on the project
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
